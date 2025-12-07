@@ -1,1 +1,1 @@
-# VolatilitySrategy1
+# Volatility Strategy
